@@ -26,10 +26,12 @@ incorporar un token personal al launcher.
 
 - manifest.schema.json: contrato del manifest.
 - manifest.example.json: ejemplo sin datos operativos.
-- manifest.json: última publicación histórica.
+- manifest.json: publicación vigente que leen el cliente y el launcher.
 - Version.txt: referencia de versión utilizada por el flujo anterior.
 - scripts/Publish-RAOClientRelease.ps1: validador y publicador.
-- Parche*.zip: paquetes históricos versionados en el repositorio.
+
+Los paquetes Parche*.zip del cliente legacy (VB6) se retiraron del repositorio;
+siguen disponibles en el historial de git.
 
 ## Formato del manifest
 
