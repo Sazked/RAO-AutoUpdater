@@ -64,6 +64,11 @@ if (-not $Publish) {
 Require-Command gh
 Require-Command git
 
+# gh y git escriben avisos y progreso en stderr. En Windows PowerShell 5.1,
+# con 'Stop' eso corta el script aunque el comando haya salido bien; cada
+# llamada nativa se valida abajo con $LASTEXITCODE.
+$ErrorActionPreference = 'Continue'
+
 Push-Location $repositoryRoot
 try {
     $existingRelease = gh release view $tag --repo $Repository 2>$null
