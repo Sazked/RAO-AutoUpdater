@@ -6,19 +6,21 @@ RAO-Launcher.
 
 ## Estado actual
 
-Este repositorio está privado e inactivo. No se utiliza como canal de
-actualizaciones por el momento.
+Este repositorio es público y es el canal de actualizaciones activo
+(Sazked/RAO-AutoUpdater). Tanto el cliente como el launcher leen:
 
-Al ser privado:
+~~~text
+https://raw.githubusercontent.com/Sazked/RAO-AutoUpdater/main/manifest.json
+~~~
 
-- raw.githubusercontent.com no entrega manifest.json a jugadores anónimos;
-- los assets de Releases requieren autenticación;
-- el launcher no puede actualizar una instalación normal;
-- un cliente ya instalado puede seguir iniciándose desde el launcher.
+- El cliente compara rao/public_version de project.godot con la versión del
+  manifest antes de conectar; si no coinciden, pide abrir el launcher.
+- El launcher compara la versión del manifest con launcher-state.json,
+  descarga el ZIP del release, verifica su SHA-256 y reemplaza game/.
 
-No se debe incorporar un token personal al launcher para evitar esta
-restricción. Cuando se reactive la distribución, la opción recomendada es
-publicar manifest y ZIP en un endpoint HTTPS diseñado para descargas.
+El repositorio debe seguir siendo público: si pasa a privado, ningún jugador
+podrá conectarse (el cliente no podrá verificar su versión). No se debe
+incorporar un token personal al launcher.
 
 ## Contenido
 
@@ -61,8 +63,9 @@ GitHub:
 
 ## Publicar
 
-No ejecutar este paso mientras el updater permanezca retirado. Cuando se
-decida reactivarlo:
+La versión debe ser exactamente la misma que rao/public_version del
+project.godot con el que se exportó el cliente; si no, el cliente publicado
+nunca podrá conectar.
 
 ~~~powershell
 .\scripts\Publish-RAOClientRelease.ps1 -ArchivePath C:\ruta\RAO-Client-0.1.0-test.1-windows-x86_64.zip -Version 0.1.0-test.1 -Publish
@@ -77,8 +80,8 @@ El script:
 5. actualiza manifest.json;
 6. crea un commit y lo publica en main.
 
-En un repositorio privado, esa publicación sigue siendo privada y no resulta
-consumible por un launcher anónimo.
+Desde ese momento los clientes con otra versión verán "Actualización
+requerida" al conectar y el launcher instalará la nueva.
 
 ## Probar el contrato sin publicar
 
@@ -99,7 +102,7 @@ pero es el área menos madura en contenido, balance y progresión.
 
 ## Repositorios relacionados
 
-- AutoUpdater: https://github.com/IlandelValle/RAO-AutoUpdater
+- AutoUpdater: https://github.com/Sazked/RAO-AutoUpdater
 - Launcher: https://github.com/IlandelValle/RAO-Launcher
 - Cliente: https://github.com/IlandelValle/RAO-Godot-Client
 - Servidor: https://github.com/IlandelValle/RAO-Go-Server

@@ -11,7 +11,7 @@ param(
     [ValidatePattern('^[A-Za-z0-9][A-Za-z0-9._-]*\.exe$')]
     [string]$Executable = 'rao-client.exe',
 
-    [string]$Repository = 'IlandelValle/RAO-AutoUpdater',
+    [string]$Repository = 'Sazked/RAO-AutoUpdater',
 
     [switch]$Publish
 )
