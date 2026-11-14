@@ -105,9 +105,9 @@ pero es el área menos madura en contenido, balance y progresión.
 ## Repositorios relacionados
 
 - AutoUpdater: https://github.com/Sazked/RAO-AutoUpdater
-- Launcher: https://github.com/IlandelValle/RAO-Launcher
-- Cliente: https://github.com/IlandelValle/RAO-Godot-Client
-- Servidor: https://github.com/IlandelValle/RAO-Go-Server
+- Launcher: https://github.com/Sazked/RAO-Launcher
+- Cliente: https://github.com/Sazked/RAO-Godot-Client
+- Servidor: https://github.com/Sazked/RAO-Go-Server
 
 ## Seguridad
 
