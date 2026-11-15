@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.26",
+      "date": "2026-11-15",
+      "notes": [
+        "Noticias en la pantalla de inicio de sesión: lista de todos los parches publicados.",
+        "Un clic en el título de un parche lo despliega para leer qué trae; la lista tiene scroll.",
+        "El estado de la conexión (\"Servidor desconectado\") ahora aparece al lado del título Noticias."
+      ]
+    },
+    {
       "title": "Launcher 1.0.3",
       "date": "2026-11-15",
       "notes": [
