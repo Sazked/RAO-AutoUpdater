@@ -85,6 +85,21 @@ El script:
 Desde ese momento los clientes con otra versión verán "Actualización
 requerida" al conectar y el launcher instalará la nueva.
 
+## Publicar el launcher
+
+El launcher se actualiza solo con `launcher-manifest.json`, que tiene el mismo
+formato que `manifest.json` pero apunta al `.exe` del launcher. Publicar un
+parche del juego nunca lo toca, ni al revés.
+
+```powershell
+.\scripts\Publish-RAOLauncherRelease.ps1 -LauncherPath ..\RAO-Launcher\build\RAO-Launcher.exe -Version 1.0.0
+.\scripts\Publish-RAOLauncherRelease.ps1 -LauncherPath ..\RAO-Launcher\build\RAO-Launcher.exe -Version 1.0.0 -Publish
+```
+
+El script verifica que el `.exe` informe esa misma versión (`--version`), crea
+el release `launcher-v<versión>` con `RAO-Launcher.exe` sin marcarlo como
+último release, y actualiza `launcher-manifest.json` en `main`.
+
 ## Probar el contrato sin publicar
 
 ~~~powershell
