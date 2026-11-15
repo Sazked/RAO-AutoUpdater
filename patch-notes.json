@@ -1,0 +1,56 @@
+{
+  "patches": [
+    {
+      "title": "Launcher 1.0.2",
+      "date": "2026-11-15",
+      "notes": [
+        "Iniciar juego ya no deja el launcher en \"No responde\" después de una actualización.",
+        "Los botones se resaltan en dorado al pasar el mouse.",
+        "Aviso visible cuando el launcher se actualiza solo, con la versión anterior y la nueva.",
+        "La versión del launcher se ve abajo a la derecha."
+      ]
+    },
+    {
+      "title": "Parche 0.1.0-prealpha.25",
+      "date": "2026-11-15",
+      "notes": [
+        "Casilla \"Recordar cuenta\" en la pantalla de inicio de sesión.",
+        "Contorno para la barra de macros y borde dorado en cada casilla.",
+        "Los marcos de todas las ventanas ahora están cerrados."
+      ]
+    },
+    {
+      "title": "Launcher 1.0.1",
+      "date": "2026-11-15",
+      "notes": [
+        "Marcos cerrados en todos los recuadros del launcher."
+      ]
+    },
+    {
+      "title": "Launcher 1.0.0",
+      "date": "2026-11-15",
+      "notes": [
+        "Nuevo diseño gris oscuro, igual al del juego.",
+        "El launcher se actualiza solo cuando sale una versión nueva."
+      ]
+    },
+    {
+      "title": "Parche 0.1.0-prealpha.24",
+      "date": "2026-11-15",
+      "notes": [
+        "Presencia en Discord: mientras jugás, tu perfil muestra el personaje, su nivel, clase y raza."
+      ]
+    },
+    {
+      "title": "Parche 0.1.0-prealpha.23",
+      "date": "2026-11-15",
+      "notes": [
+        "Sistema de cuentas: usuario, contraseña y mail obligatorio.",
+        "Hasta 10 personajes por cuenta, con pantalla de selección de personaje.",
+        "Lista de servidores en la pantalla de inicio de sesión.",
+        "\"Desconectar\" vuelve a la selección de personajes y \"Salir\" vuelve al inicio de sesión.",
+        "Nuevo estilo para las pantallas de inicio de sesión y de carga."
+      ]
+    }
+  ]
+}

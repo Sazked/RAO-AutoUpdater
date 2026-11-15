@@ -29,6 +29,7 @@ incorporar un token personal al launcher.
 - manifest.json: publicación vigente que leen el cliente y el launcher.
 - Version.txt: referencia de versión utilizada por el flujo anterior.
 - scripts/Publish-RAOClientRelease.ps1: validador y publicador.
+- patch-notes.json: lista de parches que muestran las Noticias del launcher y del login.
 
 Los paquetes Parche*.zip del cliente legacy (VB6) se retiraron del repositorio;
 siguen disponibles en el historial de git.
@@ -99,6 +100,25 @@ parche del juego nunca lo toca, ni al revés.
 El script verifica que el `.exe` informe esa misma versión (`--version`), crea
 el release `launcher-v<versión>` con `RAO-Launcher.exe` sin marcarlo como
 último release, y actualiza `launcher-manifest.json` en `main`.
+
+## Noticias (patch-notes.json)
+
+El launcher y la pantalla de login del cliente descargan `patch-notes.json`
+(junto a `manifest.json`) y lo muestran en Noticias: cada parche aparece por
+su título y se despliega con un clic para leer sus notas. Si no hay conexión
+se muestra la última copia descargada.
+
+Con cada publicación se agrega una entrada **al principio** de `patches`:
+
+```json
+{
+  "title": "Parche 0.1.0-prealpha.26",
+  "date": "2026-11-20",
+  "notes": ["Primera novedad.", "Segunda novedad."]
+}
+```
+
+La fecha va en formato `AAAA-MM-DD` y se muestra como `20/11/2026`.
 
 ## Probar el contrato sin publicar
 
