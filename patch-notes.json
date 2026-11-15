@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Launcher 1.0.3",
+      "date": "2026-11-15",
+      "notes": [
+        "Noticias: lista de todos los parches publicados, del más nuevo al más viejo.",
+        "Un clic en el título de un parche lo despliega para leer qué trae.",
+        "La lista se puede bajar con la rueda del mouse o arrastrando la barra de la derecha."
+      ]
+    },
+    {
       "title": "Launcher 1.0.2",
       "date": "2026-11-15",
       "notes": [
