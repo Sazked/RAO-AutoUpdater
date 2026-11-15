@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "download_url":  "https://github.com/Sazked/RAO-AutoUpdater/releases/download/launcher-v1.0.0/RAO-Launcher.exe",
-    "sha256":  "95ecdabe60afe138bda822e960992d6949d332472de29684bb77825694bcbe52",
+    "version":  "1.0.1",
+    "download_url":  "https://github.com/Sazked/RAO-AutoUpdater/releases/download/launcher-v1.0.1/RAO-Launcher.exe",
+    "sha256":  "9e5029e6354744378f5627a1c21e4786e92d69fe307dad23639b3ac9d7461afa",
     "executable":  "RAO-Launcher.exe"
 }
