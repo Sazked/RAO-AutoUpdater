@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.27",
+      "date": "2026-11-16",
+      "notes": [
+        "Minimapa corregido en la Arena y en la Arena PvP: ahora muestra las arenas, salas y pasillos reales en lugar del templo viejo."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.26",
       "date": "2026-11-15",
       "notes": [
