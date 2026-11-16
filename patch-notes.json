@@ -1,6 +1,17 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.28",
+      "date": "2026-11-16",
+      "notes": [
+        "Animar a la naturaleza ahora muestra su animación al lanzarlo.",
+        "Balance: Juicio final hace 85 a 90 de daño y Lamento de la banshee 65 a 80.",
+        "Espada Argentum: aura nueva, azul.",
+        "Espada de Oro: su aura ahora se ve.",
+        "Ajustes de posición en las auras del Báculo de Hechicero y la Daga Infernal."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.27",
       "date": "2026-11-16",
       "notes": [
