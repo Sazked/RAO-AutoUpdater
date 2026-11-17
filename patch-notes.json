@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.30",
+      "date": "2026-11-17",
+      "notes": [
+        "Nombres de mapas corregidos: ya no aparecen letras rotas en los nombres con acentos (por ejemplo, \"Océano abierto\" o \"Río Otoren\").",
+        "Las auras de ítems ahora pueden tener su propio tamaño."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.29",
       "date": "2026-11-17",
       "notes": [
