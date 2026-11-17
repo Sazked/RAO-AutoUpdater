@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.29",
+      "date": "2026-11-17",
+      "notes": [
+        "Nueva explosión a color para el hechizo Apocalipsis.",
+        "Efectos visuales nuevos y ajuste de posición en uno existente.",
+        "Gráficos de partículas más limpios: se quitó el fondo oscuro que se notaba alrededor de algunos efectos.",
+        "Ajustes en las auras de ítems."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.28",
       "date": "2026-11-16",
       "notes": [
