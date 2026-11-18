@@ -1,6 +1,20 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.36",
+      "date": "2026-11-18",
+      "notes": [
+        "Nuevo barbero en la Zona de Inicio: cambiá la cabeza de tu personaje.",
+        "Luces y clima en los mapas (por ahora ningún mapa los tiene configurados).",
+        "Las puertas y los objetos fijos del mapa ya no se pueden agarrar.",
+        "Los objetos Newbie y NoDrop ya no se pueden comerciar.",
+        "El oro del clan ahora se deposita y se retira junto a un banquero.",
+        "Al vender, depositar o tirar un objeto equipado, deja de verse puesto.",
+        "Guardado de personajes más seguro ante cortes del servidor.",
+        "Panel de GM renovado."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.35",
       "date": "2026-11-18",
       "notes": [
