@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.33",
+      "date": "2026-11-18",
+      "notes": [
+        "El staff del juego ahora se distingue: el Director aparece con el nombre en dorado y su título debajo."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.32",
       "date": "2026-11-18",
       "notes": [
