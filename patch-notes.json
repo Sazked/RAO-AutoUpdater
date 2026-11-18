@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.35",
+      "date": "2026-11-18",
+      "notes": [
+        "Panel de GM: ahora solo el Director tiene permisos de GM, y se suma la sección «Apariencia» para cambiar el aspecto de un personaje y ponerle un aura."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.34",
       "date": "2026-11-18",
       "notes": [
