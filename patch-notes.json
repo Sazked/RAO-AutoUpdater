@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.32",
+      "date": "2026-11-18",
+      "notes": [
+        "Nuevas partículas y gráficos.",
+        "Las cuentas de staff muestran que tienen un solo personaje."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.31",
       "date": "2026-11-17",
       "notes": [
