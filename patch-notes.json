@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.34",
+      "date": "2026-11-18",
+      "notes": [
+        "Llega contenido nuevo hecho por Lukj: más de 400 armaduras nuevas a la venta con los armeros de la Zona de Inicio, cabezas y criaturas nuevas, y la Fortaleza Demoníaca, a la que se entra por un portal desde la Zona de Inicio."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.33",
       "date": "2026-11-18",
       "notes": [
