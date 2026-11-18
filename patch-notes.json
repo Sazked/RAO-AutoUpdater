@@ -1,6 +1,18 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.31",
+      "date": "2026-11-17",
+      "notes": [
+        "¡Nuevo servidor! \"Rhember AO\" ahora está en un servidor propio, abierto las 24 horas.",
+        "Comercio: para comprar o vender hay que estar junto a un vendedor.",
+        "Banco: para depositar o retirar hay que estar junto a un banquero.",
+        "Ahora ves correctamente el equipo de los demás jugadores cuando se lo sacan o cambian.",
+        "Nuevos efectos visuales.",
+        "Mejoras de seguridad y de rendimiento del servidor."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.30",
       "date": "2026-11-17",
       "notes": [
