@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.41",
+      "date": "2026-11-19",
+      "notes": [
+        "Nuevo comando /tp para que los GM viajen a cualquier ciudad.",
+        "Los portales de los GM ahora se ven y se pueden elegir de colores.",
+        "Vista limpia para GM con la tecla O."
+      ]
+    },
+    {
       "title": "Launcher 1.0.6",
       "date": "2026-11-19",
       "notes": [
