@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Launcher 1.0.4",
+      "date": "2026-11-19",
+      "notes": [
+        "Launcher 1.0.4: ya no se queda en «No responde».",
+        "Si se corta una descarga, el launcher avisa y te deja reintentar.",
+        "Al pasar a esta versión, el launcher puede quedarse en «Reiniciando el launcher...» una última vez: cerralo y volvé a abrirlo."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.38",
       "date": "2026-11-19",
       "notes": [
