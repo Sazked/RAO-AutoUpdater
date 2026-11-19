@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Launcher 1.0.6",
+      "date": "2026-11-19",
+      "notes": [
+        "Launcher 1.0.6: si el antivirus está revisando un archivo, el launcher espera y reintenta en lugar de fallar."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.40",
       "date": "2026-11-19",
       "notes": [
