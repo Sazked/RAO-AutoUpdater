@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.37",
+      "date": "2026-11-19",
+      "notes": [
+        "Arreglado el inicio de sesión: la selección de personajes vuelve a aparecer sola.",
+        "La cruz de cerrar vuelve a funcionar y muestra el cartel de confirmación en todas las pantallas."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.36",
       "date": "2026-11-18",
       "notes": [
