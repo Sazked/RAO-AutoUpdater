@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.38",
+      "date": "2026-11-19",
+      "notes": [
+        "Panel de GM renovado, con mini panel y nuevas herramientas para eventos."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.37",
       "date": "2026-11-19",
       "notes": [
