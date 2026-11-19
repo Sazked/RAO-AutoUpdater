@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Launcher 1.0.5",
+      "date": "2026-11-19",
+      "notes": [
+        "Launcher 1.0.5: las noticias se mueven más livianas."
+      ]
+    },
+    {
       "title": "Launcher 1.0.4",
       "date": "2026-11-19",
       "notes": [
