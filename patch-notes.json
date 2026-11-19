@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.39",
+      "date": "2026-11-19",
+      "notes": [
+        "Ahora se ve el ciclo de día y noche: de noche el mapa se oscurece.",
+        "El nivel máximo es 50: en ese nivel ya no se acumula experiencia."
+      ]
+    },
+    {
       "title": "Launcher 1.0.5",
       "date": "2026-11-19",
       "notes": [
