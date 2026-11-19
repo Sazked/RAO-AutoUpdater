@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.40",
+      "date": "2026-11-19",
+      "notes": [
+        "Si el servidor te desconecta, ahora ves el motivo.",
+        "Apretar ESC mientras carga el mundo ya no deja abierto el cartel de salir.",
+        "Los GM y sus mensajes se ven en verde lima.",
+        "Nuevo efecto cuando un GM se teletransporta."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.39",
       "date": "2026-11-19",
       "notes": [
