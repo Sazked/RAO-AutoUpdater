@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.43",
+      "date": "2026-11-20",
+      "notes": [
+        "Efectos de partículas actualizados"
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.42",
       "date": "2026-11-19",
       "notes": [
