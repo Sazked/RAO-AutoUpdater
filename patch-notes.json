@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.42",
+      "date": "2026-11-19",
+      "notes": [
+        "Nuevo efecto de rayo cuando un GM se teletransporta.",
+        "Efectos de partículas actualizados."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.41",
       "date": "2026-11-19",
       "notes": [
