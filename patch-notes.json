@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.47",
+      "date": "2026-11-20",
+      "notes": [
+        "Panel GM: la tecla L limpia los objetos que se ven en pantalla.",
+        "Panel GM: un jugador congelado sigue congelado aunque se desconecte o se reinicie el servidor.",
+        "Los paneles de GM se abren siempre en su posición original."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.46",
       "date": "2026-11-20",
       "notes": [
