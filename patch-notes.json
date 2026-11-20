@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.46",
+      "date": "2026-11-20",
+      "notes": [
+        "La pantalla completa se ve más nítida.",
+        "Los paneles de GM se abren dentro del juego en pantalla completa.",
+        "La consola indica en qué parte del cuerpo pega cada golpe, también con flechas y armas a distancia."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.45",
       "date": "2026-11-20",
       "notes": [
