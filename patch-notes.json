@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.44",
+      "date": "2026-11-20",
+      "notes": [
+        "Panel GM: la tecla Y también elimina al NPC del tile.",
+        "Panel GM: arreglada la tecla K (paredes de evento).",
+        "Panel GM: la cuenta regresiva de la J ahora tiene animación."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.43",
       "date": "2026-11-20",
       "notes": [
