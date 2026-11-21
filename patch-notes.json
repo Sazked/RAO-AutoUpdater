@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.48",
+      "date": "2026-11-21",
+      "notes": [
+        "Nuevo efecto visual de partículas disponible para hechizos.",
+        "Minimapa de Ullathorpe actualizado."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.47",
       "date": "2026-11-20",
       "notes": [
