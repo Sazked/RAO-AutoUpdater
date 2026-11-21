@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.49",
+      "date": "2026-11-21",
+      "notes": [
+        "La tarde y la noche ahora oscurecen el mundo sin teñirlo de naranja ni de azul: los colores se ven más naturales.",
+        "El amanecer aclara de a poco en vez de cortar de golpe."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.48",
       "date": "2026-11-21",
       "notes": [
