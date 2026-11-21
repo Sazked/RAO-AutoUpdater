@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.52",
+      "date": "2026-11-21",
+      "notes": [
+        "Rendimiento: la barra de macros ahora se dibuja con muchas menos llamadas a la placa de video (de 112 a 42), así que la interfaz pesa menos y el juego da más FPS, sobre todo en pantallas grandes.",
+        "Rendimiento: cuando otros jugadores giran, el juego ya no rearma sus auras, partículas de ítems ni el nombre y las barras de arriba de la cabeza. En ciudades llenas eso se nota como menos tirones.",
+        "Nuevo: en Opciones → Jugabilidad aparece «Limitar FPS a 144». Por defecto viene apagado y el juego corre a todos los FPS que dé tu PC.",
+        "Cambio: la «Sincronizacion vertical» (VSync) ahora viene apagada por defecto. Si ves la imagen cortada o con una línea al moverte rápido, activala en Opciones → Jugabilidad. Si ya la habías configurado, se mantiene tu elección."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.51",
       "date": "2026-11-21",
       "notes": [
