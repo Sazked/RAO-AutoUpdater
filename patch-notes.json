@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.55",
+      "date": "2026-11-21",
+      "notes": [
+        "Seis armaduras nuevas del casino, cada una con su aura: Rey del Truco, Señor de la Ruleta, Maestro del 21, Magnate, Barón de las Fichas y Emperador Supremo.",
+        "La Armadura del Emperador ahora brilla con un aura de riqueza."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.54",
       "date": "2026-11-21",
       "notes": [
