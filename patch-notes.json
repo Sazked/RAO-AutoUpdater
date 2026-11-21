@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.54",
+      "date": "2026-11-21",
+      "notes": [
+        "Nueva ciudad principal: Olivera. Los personajes nuevos nacen ahí.",
+        "Arenas 1v1 y 2v2 con portales a la Arena PvP, y una fortaleza al norte.",
+        "Desde la entrada sur hay un portal a la Zona de Inicio.",
+        "Olivera ya tiene su minimapa."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.53",
       "date": "2026-11-21",
       "notes": [
