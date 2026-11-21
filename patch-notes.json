@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.53",
+      "date": "2026-11-21",
+      "notes": [
+        "Truco: cuando se quiere el envido, el que pierde dice «Son buenas» sin mostrar su número, y al terminar la mano se ven las cartas del tanto ganador.",
+        "En las partidas 2 contra 2 y 3 contra 3 podés pedirle a tu compañero «Venga, Apure, Ponga o Cante»: solo lo ve tu equipo."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.52",
       "date": "2026-11-21",
       "notes": [
