@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.51",
+      "date": "2026-11-21",
+      "notes": [
+        "¡Abrió el Casino! Entrá por el portal nuevo de la Zona de Inicio y jugá al truco, la ruleta y el blackjack apostando tu oro.",
+        "Para sentarte a una mesa, hablá con su krupier. El que más gane en el mes se lleva la Armadura del Emperador."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.50",
       "date": "2026-11-21",
       "notes": [
