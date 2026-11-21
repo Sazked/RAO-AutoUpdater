@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.50",
+      "date": "2026-11-21",
+      "notes": [
+        "El juego anda más fluido: la consola, los textos y la red gastan mucho menos, sobre todo con mucha gente en pantalla."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.49",
       "date": "2026-11-21",
       "notes": [
