@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.57",
+      "date": "2026-11-22",
+      "notes": [
+        "Olivera renovada: ciudad simétrica, plaza central nueva y entradas de piedra para cada portal.",
+        "Al clickear los portales de Olivera ya ves adónde llevan: Arena 1v1, Arena 2v2 o Zona de Inicio.",
+        "Nuevo mapa de Arenas con duelos 1v1, 2v2 y todos contra todos.",
+        "En las Arenas no perdés tus ítems al morir."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.56",
       "date": "2026-11-21",
       "notes": [
