@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.58",
+      "date": "2026-11-23",
+      "notes": [
+        "Nuevo mapa del mundo: ahora se ve el mundo completo y bien armado, con vistas aparte para el mini mundo, los dungeons y los eventos y arenas.",
+        "Pasá el mouse por el mapa para ver el nombre de cada zona y dónde estás parado."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.57",
       "date": "2026-11-22",
       "notes": [
