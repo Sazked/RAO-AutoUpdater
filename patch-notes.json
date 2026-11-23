@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.59",
+      "date": "2026-11-23",
+      "notes": [
+        "El juego anda más fluido: más FPS al caminar y en peleas con muchos hechizos.",
+        "Menos tirones al moverte por el mapa."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.58",
       "date": "2026-11-23",
       "notes": [
