@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.60",
+      "date": "2026-11-24",
+      "notes": [
+        "Mover el mouse ya casi no baja los FPS: la pérdida que había al pasarlo por la pantalla ahora es mucho menor.",
+        "El juego anda más fluido mientras apuntás, lanzás hechizos y usás el inventario o las barras de macros.",
+        "Las ventanas cerradas y los espacios vacíos del inventario ya no gastan rendimiento cuando pasás el mouse por encima."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.59",
       "date": "2026-11-23",
       "notes": [
