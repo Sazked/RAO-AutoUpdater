@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.0-prealpha.59",
-    "download_url":  "https://github.com/Sazked/RAO-AutoUpdater/releases/download/v0.1.0-prealpha.59/RAO-Client-0.1.0-prealpha.59-windows-x86_64.zip",
-    "sha256":  "ca441c3e21df18d749214931a49b8bce12e6bc9f7ce825ad40c5c52dc2da86a7",
+    "version":  "0.1.0-prealpha.60",
+    "download_url":  "https://github.com/Sazked/RAO-AutoUpdater/releases/download/v0.1.0-prealpha.60/RAO-Client-0.1.0-prealpha.60-windows-x86_64.zip",
+    "sha256":  "4e3f66700fb99d175a8a7ea51e02e138fd88ab1a89859e9f733dfe1cf563f750",
     "executable":  "rao-client.exe"
 }
