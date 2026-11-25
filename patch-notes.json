@@ -1,6 +1,13 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.62",
+      "date": "2026-11-25",
+      "notes": [
+        "Arreglado: el panel del inventario y sus pestañas aparecían arriba a la izquierda en vez de a la derecha."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.61",
       "date": "2026-11-24",
       "notes": [
