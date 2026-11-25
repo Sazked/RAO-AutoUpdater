@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.61",
+      "date": "2026-11-24",
+      "notes": [
+        "Con el personaje quieto el juego anda más fluido: las partículas del mapa gastan menos, y se ven igual que antes.",
+        "Caminando, el juego hace menos cálculos en cada cuadro, así que también rinde un poco más.",
+        "La interfaz (inventario, paneles y barras) se dibuja con menos trabajo, y se ve exactamente igual.",
+        "Nada cambia en cómo se camina ni en cómo se lanzan hechizos: son mejoras de rendimiento puras."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.60",
       "date": "2026-11-24",
       "notes": [
