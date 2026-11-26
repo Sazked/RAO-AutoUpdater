@@ -1,6 +1,15 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.63",
+      "date": "2026-11-26",
+      "notes": [
+        "Mejora de rendimiento al caminar: subieron los FPS mientras te movés por el mapa.",
+        "Los techos y la carga del mapa se actualizan solo cuando cambiás de baldosa, no en cada cuadro.",
+        "Menos trabajo del juego en cada cuadro, tanto solo como con muchos jugadores en pantalla."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.62",
       "date": "2026-11-25",
       "notes": [
