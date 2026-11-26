@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.64",
+      "date": "2026-11-26",
+      "notes": [
+        "Casino renovado con el estilo del juego. La mesa abre en su propia ventana, que podés sacar fuera del juego.",
+        "Truco: queda claro a cuánto se juega y cuánto apostás, cartel de ganaste o perdiste al terminar, y rangos por victorias con la lista de los más ganadores. Los bots juegan mejor a medida que subís de rango.",
+        "Blackjack: cada mano nueva ocupa su propio lugar en la mesa y el As muestra sus dos valores («4 / 14»).",
+        "Ruleta: fichas más claras, el número se ve recién cuando frena la bolilla, ves las apuestas de los demás y el oro se descuenta al instante."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.63",
       "date": "2026-11-26",
       "notes": [
