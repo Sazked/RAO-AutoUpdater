@@ -1,6 +1,16 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.65",
+      "date": "2026-11-27",
+      "notes": [
+        "Rebalance general: nuevas defensas de armaduras, cascos y escudos, y todas las túnicas comunes pasan a 30 de defensa. También cambian el daño, la curación y los costos de los hechizos.",
+        "Nuevo maná máximo por clase y raza; tus personajes lo toman al entrar.",
+        "Combate entre jugadores con daño por clase y raza, y nuevos intervalos de golpe y de casteo. El Brujo ya no pierde hechizos al castear rápido.",
+        "Lamento de la Banshee, Castigo Divino y Fuente de vida cuestan un porcentaje de tu maná, y la ficha del hechizo lo muestra."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.64",
       "date": "2026-11-26",
       "notes": [
