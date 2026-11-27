@@ -21,6 +21,17 @@ param(
 # No toca manifest.json (el del cliente del juego).
 
 $ErrorActionPreference = 'Stop'
+
+# Canal PvP: nunca publicar aca versiones ni archivos de la linea RPG
+# (Sazked/RAO-AutoUpdater-RPG). Un cliente o launcher RPG en este canal le
+# llegaria a todos los jugadores PvP.
+if ($Repository -ne 'Sazked/RAO-AutoUpdater') {
+    throw "Este script publica solo en Sazked/RAO-AutoUpdater (PvP), no en '$Repository'."
+}
+if ($Version -match 'rpg' -or (Split-Path -Leaf $LauncherPath) -match 'rpg') {
+    throw "'$Version' / '$LauncherPath' es de la linea RPG: se publica con los scripts de Sazked/RAO-AutoUpdater-RPG."
+}
+
 $assetName = 'RAO-Launcher.exe'
 
 function Require-Command([string]$Name) {
