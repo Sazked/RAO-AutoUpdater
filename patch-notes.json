@@ -1,6 +1,14 @@
 {
   "patches": [
     {
+      "title": "Parche 0.1.0-prealpha.66",
+      "date": "2026-11-27",
+      "notes": [
+        "El juego anda más fluido al caminar: menos trabajo por cuadro y carga más rápida de los mapas vecinos.",
+        "La lista de servidores muestra solo Rhember AO PVP."
+      ]
+    },
+    {
       "title": "Parche 0.1.0-prealpha.65",
       "date": "2026-11-27",
       "notes": [
